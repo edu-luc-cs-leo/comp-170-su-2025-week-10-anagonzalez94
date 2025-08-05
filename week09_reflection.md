@@ -1,0 +1,2 @@
+# Week 09 Reflection
+For this week's assignment, the biggest thing I could have improved on is optimization. Pretty much all of my solutions align most closely with the unoptimized, verbose examples given. As for testing, I did not run multiple different inputs like in the posted code. I also did not entirely complete the section for the Fibonacci sequence as I should've.
